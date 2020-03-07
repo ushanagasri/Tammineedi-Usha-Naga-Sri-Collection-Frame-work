@@ -1,0 +1,12 @@
+2020-03-07 22:55:40 INFO  App:24 - List is :[1,2,3,78,34,32,100]
+2020-03-07 22:55:40 INFO  App:25 - Retrived : 78
+2020-03-07 22:55:40 INFO  App:26 - Removed : 78
+2020-03-07 22:55:40 DEBUG App:28 - Modified list : [1,2,3,34,32,100]
+2020-03-07 22:55:40 DEBUG App:29 - Retrived : 1
+2020-03-07 22:55:40 DEBUG App:30 - Retrived : 2
+2020-03-07 22:55:40 DEBUG App:31 - Size of list : 6
+2020-03-07 22:55:40 INFO  App:37 - List is :[Epam,task,value,abcd]
+2020-03-07 22:55:40 DEBUG App:38 - Retrived : Epam
+2020-03-07 22:55:40 DEBUG App:39 - Size of list  : 4
+2020-03-07 22:55:40 INFO  App:40 - Removed : value
+2020-03-07 22:55:40 DEBUG App:42 - Modified list : [Epam,task,abcd]
